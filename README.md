@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/sauravrathaur9" target="blank"><img src="https://img.shields.io/twitter/follow/sauravrathaur9?logo=twitter&style=for-the-badge" alt="sauravrathaur9" /></a> </p>
 
+- 🔭 I have developed **College Mnagement System on (django)** for academic project.
+
 - 🔭 I’m currently working on **carzone portal (django)**
 
 - 🌱 I’m currently learning **react js , node js , mongodb ,android**
