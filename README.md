@@ -64,69 +64,29 @@ Specialized in **Sales Cloud, Education Cloud, HRMS, CRM automation, integration
 
 ## 🛠️ Languages & Tools
 
-<div align="center" style="display:flex; flex-wrap:wrap; gap:28px; justify-content:center;">
+<table align="center">
+<tr>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-icon.svg" width="40"/><br/>Salesforce</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/><br/>Python</td>
+<td align="center"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/><br/>Django</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/><br/>Node.js</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/><br/>JavaScript</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/><br/>React</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/><br/>HTML5</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/><br/>CSS3</td>
+</tr>
 
-<div align="center">
-<img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-icon.svg" width="42"/><br/>Salesforce
-</div>
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/><br/>Bootstrap</td>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40"/><br/>Azure</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/><br/>PostgreSQL</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/><br/>MongoDB</td>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40"/><br/>SQLite</td>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/><br/>Git</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/><br/>GitHub</td>
+</tr>
+</table>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42"/><br/>Python
-</div>
-
-<div align="center">
-<img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="42"/><br/>Django
-</div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="42"/><br/>Node.js
-</div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42"/><br/>JavaScript
-</div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="42"/><br/>React
-</div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="42"/><br/>HTML5
-</div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="42"/><br/>CSS3
-</div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="42"/><br/>Bootstrap
-</div>
-
-<div align="center">
-<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="42"/><br/>Azure
-</div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="42"/><br/>PostgreSQL
-</div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="42"/><br/>MongoDB
-</div>
-
-<div align="center">
-<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="42"/><br/>SQLite
-</div>
-
-<div align="center">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="42"/><br/>Git
-</div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="42"/><br/>GitHub
-</div>
-
-</div>
 
 
 
