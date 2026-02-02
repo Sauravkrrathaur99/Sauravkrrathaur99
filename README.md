@@ -100,8 +100,9 @@ Specialized in **Sales Cloud, Education Cloud, HRMS, CRM automation, integration
 ---
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sauravkrrathaur99&show_icons=true&theme=default"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sauravkrrathaur99&margin-w=10&no-frame=true"/>
 </p>
+
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sauravkrrathaur99"/>
