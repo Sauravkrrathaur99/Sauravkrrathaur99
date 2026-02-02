@@ -64,36 +64,70 @@ Specialized in **Sales Cloud, Education Cloud, HRMS, CRM automation, integration
 
 ## 🛠️ Languages & Tools
 
-<div align="center" style="display:flex; flex-wrap:wrap; gap:18px; justify-content:center;">
+<div align="center" style="display:flex; flex-wrap:wrap; gap:28px; justify-content:center;">
 
-<!-- Salesforce -->
-<img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-icon.svg" width="42" title="Salesforce"/>
+<div align="center">
+<img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-icon.svg" width="42"/><br/>Salesforce
+</div>
 
-<!-- Backend -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" title="Python"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="42" title="Node.js"/>
+<div align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42"/><br/>Python
+</div>
 
-<!-- Frontend -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" title="JavaScript"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="42" title="React"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="42" title="HTML5"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="42" title="CSS3"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="42" title="Bootstrap"/>
+<div align="center">
+<img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="42"/><br/>Django
+</div>
 
-<!-- Cloud -->
-<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="42" title="Azure"/>
+<div align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="42"/><br/>Node.js
+</div>
 
-<!-- Databases -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="42" title="PostgreSQL"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="42" title="MongoDB"/>
-<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="42" title="SQLite"/>
+<div align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42"/><br/>JavaScript
+</div>
 
-<!-- Tools -->
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="42" title="Git"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="42" title="GitHub"/>
+<div align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="42"/><br/>React
+</div>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="42"/><br/>HTML5
+</div>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="42"/><br/>CSS3
+</div>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="42"/><br/>Bootstrap
+</div>
+
+<div align="center">
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="42"/><br/>Azure
+</div>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="42"/><br/>PostgreSQL
+</div>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="42"/><br/>MongoDB
+</div>
+
+<div align="center">
+<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="42"/><br/>SQLite
+</div>
+
+<div align="center">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="42"/><br/>Git
+</div>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="42"/><br/>GitHub
+</div>
 
 </div>
+
 
 
 ---
