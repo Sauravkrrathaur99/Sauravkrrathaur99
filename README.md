@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saurav Kumar Rathaur</h1>
-<h3 align="center">A passionate frontend and backend web developer from India</h3>
+<h3 align="center">Salesforce Developer | Full Stack Developer (Python, Django, Azure, JavaScript)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sauravkrrathaur99&label=Profile%20views&color=0e75b6&style=flat" alt="sauravkrrathaur99" /> </p>
 
@@ -7,31 +7,91 @@
 
 <p align="left"> <a href="https://twitter.com/sauravrathaur9" target="blank"><img src="https://img.shields.io/twitter/follow/sauravrathaur9?logo=twitter&style=for-the-badge" alt="sauravrathaur9" /></a> </p>
 
-- 🔭 I have developed **College Mnagement System on (django)** for academic project.
+---
 
-- 🔭 I’m currently working on **carzone portal (django)**
+## 🚀 About Me
 
-- 🌱 I’m currently learning **react js , node js , mongodb ,android**
+Results-driven **Salesforce Developer and Full Stack Engineer** with 3+ years of experience building enterprise CRM and cloud applications using **Salesforce (Apex, LWC, SOQL, Flows)** and **Python/Django on Microsoft Azure**.
 
-- 👯 I’m looking to collaborate on **hospital management system**
+I specialize in delivering **Sales Cloud, Education Cloud, HRMS, and CRM solutions**, integrating third-party systems, automating business workflows, and supporting production environments.
 
-- 📫 How to reach me **sauravkr.rathaur99@outlook.in**
+---
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xKfals3UHrnoT943vawhFdRvuHkge1RZ/view?usp=sharing](https://drive.google.com/file/d/1xKfals3UHrnoT943vawhFdRvuHkge1RZ/view?usp=sharing)
+## 💼 What I Do
+
+- 🔹 Salesforce Development: Apex, LWC, SOQL, Triggers, Flows, Reports & Dashboards  
+- 🔹 Salesforce Clouds: Sales Cloud, Education Cloud  
+- 🔹 CRM Implementations & Data Migration (Freshworks → Salesforce)  
+- 🔹 Full Stack Development: Python, Django, JavaScript, REST APIs  
+- 🔹 Cloud Platforms: Microsoft Azure, AKS, PostgreSQL  
+- 🔹 Automation: Recruitment workflows, admissions pipelines, HR systems  
+- 🔹 Production Support, UAT, User Training & Adoption  
+
+---
+
+## 🏢 Professional Experience
+
+### Salesforce Developer – Onelogica (Apr 2024 – Present)
+- Implemented enterprise Salesforce Sales Cloud and Education Cloud solutions for education and pharmaceutical clients.
+- Built university admissions systems and engineering college placement CRMs.
+- Led Freshworks → Salesforce migration for pharmaceutical sales operations.
+- Developed Apex, LWC, Flows, integrations, dashboards, and approval processes.
+- Provided production support, UAT coordination, user training, and troubleshooting.
+
+### Application Developer – Onelogica (Jul 2023 – Apr 2024)
+- Built HR Management System and Employee Self-Service platform using Django & Azure.
+- Automated recruitment lifecycle: job posting → applications → interviews → offer letters → hiring.
+- Reduced manual HR operations by 40% and improved data accuracy by 30%.
+
+---
+
+## 🧩 Key Projects
+
+- ✅ Enterprise Salesforce CRM (Sales Cloud & Education Cloud)
+- ✅ University Admissions Management System
+- ✅ Engineering College Placement CRM
+- ✅ Pharmaceutical Sales CRM + Freshworks Migration
+- ✅ HRMS & Recruitment Automation Platform
+- ✅ Digital CRM Web Application (Python + Django + Azure)
+- ✅ College Management System
+- ✅ ApnaEngineer Service Platform
+
+---
+
+## 🏆 Certifications
+
+- Salesforce Certified Platform Foundations  
+- Salesforce Agentforce Specialist  
+- Salesforce Certified AI Associate  
+- Microsoft Certified: Azure Fundamentals (AZ-900)  
+- Microsoft Certified: Azure Administrator Associate  
+- Cisco: PCAP Python, CCNAv7, Cyber Security  
+
+---
+
+- 🔭 I have developed **College Management System (Django)** for academic project  
+- 🔭 I worked on **Car-Zone Portal (Django)**  
+- 🌱 Currently exploring **React, Node.js, MongoDB**  
+- 👯 Open to collaborating on **CRM, HRMS, and Full Stack projects**  
+- 📫 Reach me at **sauravkr.rathaur99@outlook.in**
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sauravrathaur9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sauravrathaur9" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/saurav-kumar-rathaur-14b3771a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saurav-kumar-rathaur-14b3771a1" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/sauravrathaur9" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/sauravrathaur9" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/sauravrathaur99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/sauravrathaur99" height="30" width="40" /></a>
+<a href="https://twitter.com/sauravrathaur9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/saurav-kumar-rathaur-14b3771a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 </p>
 
+---
+
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<p align="left">
+Python, Salesforce, Apex, LWC, SOQL, Django, JavaScript, Azure, PostgreSQL, Git, HTML, CSS, Bootstrap, React, Node.js, MongoDB
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sauravkrrathaur99&show_icons=true&locale=en&layout=compact" alt="sauravkrrathaur99" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sauravkrrathaur99&show_icons=true&locale=en&layout=compact" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sauravkrrathaur99&show_icons=true&locale=en" alt="sauravkrrathaur99" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sauravkrrathaur99&show_icons=true&locale=en" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sauravkrrathaur99&" alt="sauravkrrathaur99" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sauravkrrathaur99" /></p>
